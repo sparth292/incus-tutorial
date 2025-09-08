@@ -4,8 +4,9 @@
 
 ## Install Python3 Python3-pip and jupyter notebook using these commands
 
-apt install python3 python3-pip
-apt install jupyter
+#### apt install python3 python3-pip
+
+#### apt install jupyter
 
 ## Run
 
