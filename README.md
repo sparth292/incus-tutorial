@@ -1,5 +1,6 @@
-What is Incus?
-Incus is a next-generation system container, application container, and virtual machine manager.
+# What is Incus?
+
+#### Incus is a next-generation system container, application container, and virtual machine manager.
 
 It provides a user experience similar to that of a public cloud. With it, you can easily mix and match both containers and virtual machines, sharing the same underlying storage and network.
 
