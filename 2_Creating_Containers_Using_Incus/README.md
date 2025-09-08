@@ -1,6 +1,6 @@
 ## Creating Two Containers
 
-<img width="1301" height="127" alt="image" src="https://github.com/user-attachments/assets/87d41d88-afcb-4b6f-a4c8-53b0b78ee07d" />
+<img width="1300" height="123" alt="image" src="https://github.com/user-attachments/assets/1208077b-d8d0-4620-b7ad-9cb2a1222000" />
 
 ## Using List command to list the running containers
 
