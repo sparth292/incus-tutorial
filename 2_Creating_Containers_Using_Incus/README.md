@@ -13,3 +13,7 @@
 ## Stopping Containers
 
 <img width="1299" height="124" alt="image" src="https://github.com/user-attachments/assets/29b12f68-32e3-43e4-bc1d-d553967afe70" />
+
+## Restarting Them
+
+<img width="1299" height="124" alt="image" src="https://github.com/user-attachments/assets/7cdcddab-5ca5-4c8a-9ce1-546873cc2789" />
