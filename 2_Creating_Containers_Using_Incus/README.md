@@ -9,3 +9,7 @@
 ## Checking Configuration of the Containers
 
 <img width="1299" height="330" alt="image" src="https://github.com/user-attachments/assets/07540a90-5d4d-46af-a454-5c4f80ca1548" />
+
+## Stopping Containers
+
+<img width="1299" height="124" alt="image" src="https://github.com/user-attachments/assets/29b12f68-32e3-43e4-bc1d-d553967afe70" />
